@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ </head>
+ <body>
+   <blockquote cite="Wherever your source comes from">
+     <q>This is a really long quote that will definitely be over four lines by the time I am done typing it. Right now it is only a short paragraph, but over time as I continue typing, it becomes a longer paragraph. This is also a sentence. Additionally, this is a sentence.</q>
+   </blockquote>
+<ul>
+<li>Ridiculous Rules</a></li>
+<li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Merchandise</a></li>
+<li>Contacts</li>
+</ul>
+<ol>
+<li>Ridiculous Rules</li>
+<li>Merchandise</li>
+<li>Contacts</li>
+</ol>
+<address>
+  <p><a href="mailto: djeker20@paduaacademy.org">Email me for more pointless block quotes</a></p>
+</address>
+<hr>
+   <h1>The Most Ridiculous Rule</h1>
+   <img src="http://www.freepngimg.com/download/water_bottle/5-2-water-bottle-transparent.png" style="width: 30%">
+   <h2>Water Bottle Notes</h2>
+   <p><b>The</b> <i>most</i> ridiculous rule I have encountere<sup>d</sup>, was in grade school<br> when we needed a note to carry a <sub>water</sub> bottle to class with us.<br> My teachers would throw the bottle away if you either didn’t have a note, or it wasn’t written by your doctor.<br> My teacher Mrs. Dunfee, was especially strict with this rule.</p>
+   <p> It was the <del>worst</del> <ins>best</ins> <s>apple</s>...I mean avacado she had ever had.</p> 
+  </body>
+</html>
